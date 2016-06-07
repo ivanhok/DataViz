@@ -1,0 +1,43 @@
+.heading
+{
+    color:blue; 
+    font-size: 40px;
+}
+
+.blah
+{
+    color:red; 
+    font-size: 20px;
+    border-style: dotted;
+    border-left-style: solid;
+    background-color: gray;
+    padding: 20px;
+}
+
+.image
+{
+    width:250px;
+    position: relative;
+    left: 20px
+    
+}
+
+.box1
+{
+    height: 250px;
+    width: 300px;
+}
+
+.circ1
+{
+    stroke: black; 
+    stroke-width: 3; 
+    fill: red;
+}
+
+.circ2
+{
+    stroke: blue; 
+    stroke-width: 2; 
+    fill: green;
+}
