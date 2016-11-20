@@ -1,0 +1,22 @@
+ID,Class,Age,Sex,Survived,Score,Postcode
+1,First Class,Adult,Male,Survived,10,3000
+2,First Class,Child,Male,Survived,8,5000
+3,First Class,Adult,Male,Survived,3,3000
+4,First Class,Child,Male,Survived,4,5000
+5,First Class,Adult,Male,Survived,6,3000
+6,First Class,Adult,Female,Survived,8,5000
+7,First Class,Adult,Female,Survived,9,3000
+8,First Class,Child,Female,Survived,7,5000
+9,Second Class,Adult,Male,Perished,6,5000
+10,Second Class,Child,Male,Perished,4,5000
+11,Second Class,Child,Male,Perished,2,5000
+12,Third Class,Child,Male,Survived,5,5000
+13,Third Class,Child,Male,Survived,7,3000
+14,Third Class,Adult,Male,Survived,8,5000
+15,Third Class,Adult,Male,Survived,9,3000
+16,Third Class,Adult,Male,Perished,2,5000
+17,Third Class,Child,Male,Perished,4,3000
+18,Crew,Adult,Male,Perished,3,3000
+19,Crew,Child,Male,Perished,5,3000
+20,Crew,Child,Female,Survived,3,5000
+21,Crew,Adult,Female,Survived,4,5000
