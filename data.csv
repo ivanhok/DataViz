@@ -1,0 +1,22 @@
+Class,Age,Sex,Survived,Score
+First Class,Adult,Male,Survived,10
+First Class,Child,Male,Survived,8
+First Class,Adult,Male,Survived,3
+First Class,Child,Male,Survived,4
+First Class,Adult,Male,Survived,6
+First Class,Adult,Female,Survived,8
+First Class,Adult,Female,Survived,9
+First Class,Child,Female,Survived,7
+Second Class,Adult,Male,Perished,6
+Second Class,Child,Male,Perished,4
+Second Class,Child,Male,Perished,2
+Third Class,Child,Male,Survived,5
+Third Class,Child,Male,Survived,7
+Third Class,Adult,Male,Survived,8
+Third Class,Adult,Male,Survived,9
+Third Class,Adult,Male,Perished,2
+Third Class,Child,Male,Perished,4
+Crew,Adult,Male,Perished,3
+Crew,Child,Male,Perished,5
+Crew,Child,Female,Survived,3
+Crew,Adult,Female,Survived,4
