@@ -1,0 +1,22 @@
+ID,Class,Age,Sex,Survived,Score
+1,First Class,Adult,Male,Survived,10
+2,First Class,Child,Male,Survived,8
+3,First Class,Adult,Male,Survived,3
+4,First Class,Child,Male,Survived,4
+5,First Class,Adult,Male,Survived,6
+6,First Class,Adult,Female,Survived,8
+7,First Class,Adult,Female,Survived,9
+8,First Class,Child,Female,Survived,7
+9,Second Class,Adult,Male,Perished,6
+10,Second Class,Child,Male,Perished,4
+11,Second Class,Child,Male,Perished,2
+12,Third Class,Child,Male,Survived,5
+13,Third Class,Child,Male,Survived,7
+14,Third Class,Adult,Male,Survived,8
+15,Third Class,Adult,Male,Survived,9
+16,Third Class,Adult,Male,Perished,2
+17,Third Class,Child,Male,Perished,4
+18,Crew,Adult,Male,Perished,3
+19,Crew,Child,Male,Perished,5
+20,Crew,Child,Female,Survived,3
+21,Crew,Adult,Female,Survived,4
